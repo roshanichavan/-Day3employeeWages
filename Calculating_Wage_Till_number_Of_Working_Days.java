@@ -1,5 +1,7 @@
-package Employee_Wages;
-
+/* Welcome Line Comparison Problems*/
+/*Calculate lenght of line AB and CD*/
+/*Check Equality using Equal method*/
+/*Compare two lines usind compareTo Method
 public class Calculating_Wage_Till_number_Of_Working_Days {
 	public static final int IS_PART_TIME = 1;
 	 public static final int IS_FULL_TIME = 2;
